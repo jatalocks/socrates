@@ -17,7 +17,7 @@
     "@hokify/agenda": "^6.1.0",
     "@meanie/mongoose-upsert-many": "^2.2.0",
     "@octokit/core": "^3.5.1",
-    "@octokit/webhooks": "^9.22.0",
+    "@octokit/webhooks": "^10.0.9",
     "agenda": "^4.2.1",
     "agendash": "^3.1.0",
     "body-parser": "^1.18.3",
